@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%; }
+
+#main-body {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  max-width: 100%; }
+
+.nav {
+  background-color: #EF5350;
+  width: 100%; }
+
+#desktop-nav {
+  height: 10vh; }
+
+#desktop-loaded-div {
+  height: 100% !important;
+  width: 100%; }
+
+#desktop-body {
+  width: 100%;
+  height: -webkit-calc(100% - 10vh);
+  height: -moz-calc(100% - 10vh);
+  height: calc(100% - 10vh); }
+
+/*# sourceMappingURL=desktop.css.map */

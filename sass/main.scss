@@ -1,6 +1,23 @@
 $main-red: #EF5350;
 $main-font: 'Open Sans', sans-serif;
 
+html {
+  height: 100%;
+  width: 100%;
+}
+
 #main-body {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+}
+
+.nav {
   background-color: $main-red;
+  width: 100%;
+}
+
+#desktop-nav {
+  height: 10vh;
 }
