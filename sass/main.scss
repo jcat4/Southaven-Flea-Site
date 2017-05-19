@@ -1,4 +1,5 @@
 $main-red: #EF5350;
+$lit-red: #f96663;
 $main-font: 'Open Sans', sans-serif;
 
 html {
@@ -18,6 +19,16 @@ html {
   width: 100%;
 }
 
-#desktop-nav {
-  height: 10vh;
+.home-img-div {
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+}
+
+.main-header {
+  z-index: 900;
+  color: white;
+  position: absolute;
+  text-align: center;
+  width: 100%;
 }

@@ -12,7 +12,16 @@ html {
   background-color: #EF5350;
   width: 100%; }
 
-#desktop-nav {
-  height: 10vh; }
+.home-img-div {
+  width: 100%;
+  max-width: 100%;
+  position: relative; }
+
+.main-header {
+  z-index: 900;
+  color: white;
+  position: absolute;
+  text-align: center;
+  width: 100%; }
 
 /*# sourceMappingURL=main.css.map */
